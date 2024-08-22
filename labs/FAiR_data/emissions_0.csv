@@ -1,0 +1,7 @@
+Scenario,Region,Variable,Unit,1850,2100,5000
+abrupt,World,CO2 FFI,Gt CO2/yr,0,0,0
+abrupt,World,CO2 AFOLU,Gt CO2/yr,0,0,0
+abrupt,World,Sulfur,Mt SO2/yr,0,0,0
+ramp,World,CO2 FFI,Gt CO2/yr,0,0,0
+ramp,World,CO2 AFOLU,Gt CO2/yr,0,0,0
+ramp,World,Sulfur,Mt SO2/yr,0,0,0
