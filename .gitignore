@@ -9,6 +9,8 @@ lectures/*.lyx
 lectures/*.lyx*
 lectures/ExtraFigs
 
+HartmanFigures
+
 # from the python template:
 #######################################################
 
