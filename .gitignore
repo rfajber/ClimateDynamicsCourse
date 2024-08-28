@@ -1,15 +1,15 @@
+courseDocs
+hartmanFigures
+
 draft/*
 *.md
 *.pdf
-
-courseDocs
 
 labs/*.ipynb
 lectures/*.lyx
 lectures/*.lyx*
 lectures/ExtraFigs
 
-HartmanFigures
 
 # from the python template:
 #######################################################
