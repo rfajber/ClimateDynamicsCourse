@@ -5,12 +5,20 @@ draft/*
 *.md
 *.pdf
 
+
+*.png
+
 labs/*.ipynb
+!labs/ExampleLab.ipynb
+!labs/ExampleLab.pdf
+
+labs/data/*
+
 lectures/*.lyx
 lectures/*.lyx*
 lectures/ExtraFigs
-!labs/ExampleLab.ipyn
-!labs/ExampleLab.pdf
+
+*.png
 
 # from the python template:
 #######################################################
