@@ -9,7 +9,8 @@ labs/*.ipynb
 lectures/*.lyx
 lectures/*.lyx*
 lectures/ExtraFigs
-
+!labs/ExampleLab.ipyn
+!labs/ExampleLab.pdf
 
 # from the python template:
 #######################################################
