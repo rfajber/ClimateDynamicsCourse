@@ -5,12 +5,12 @@ draft/*
 *.md
 *.pdf
 
-
 *.png
 
 labs/*.ipynb
 !labs/ExampleLab.ipynb
 !labs/ExampleLab.pdf
+!labs/Lab1.ipynb
 
 data/*
 
