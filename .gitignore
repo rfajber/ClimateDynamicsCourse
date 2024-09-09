@@ -12,7 +12,7 @@ labs/*.ipynb
 !labs/ExampleLab.ipynb
 !labs/ExampleLab.pdf
 
-labs/data/*
+data/*
 
 lectures/*.lyx
 lectures/*.lyx*

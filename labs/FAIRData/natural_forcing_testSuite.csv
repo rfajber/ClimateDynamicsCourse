@@ -1,5 +1,0 @@
-Scenario,Region,Variable,Unit,1850,2014,5000
-abrupt,World,Volcanic,W/m2,-0.2,-0.2,-0.2
-ramp,World,Volcanic,W/m2,-0.2,-0.2,-0.2
-abrupt_noS,World,Volcanic,W/m2,-0.2,-0.2,-0.2
-CH42X,World,Volcanic,W/m2,-0.2,-0.2,-0.2
