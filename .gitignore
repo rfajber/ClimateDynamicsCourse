@@ -8,9 +8,11 @@ draft/*
 *.png
 
 labs/*.ipynb
+labs/*.nc
 !labs/ExampleLab.ipynb
 !labs/ExampleLab.pdf
 !labs/Lab1.ipynb
+!labs/Lab1ExtraHints.ipynb
 
 data/*
 
