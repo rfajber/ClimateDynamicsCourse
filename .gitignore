@@ -13,6 +13,7 @@ labs/*.nc
 !labs/ExampleLab.pdf
 !labs/Lab1.ipynb
 !labs/Lab1ExtraHints.ipynb
+!labs/Lab2.ipynb
 
 data/*
 
