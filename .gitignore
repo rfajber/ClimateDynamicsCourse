@@ -16,6 +16,9 @@ labs/*.nc
 !labs/Lab2.ipynb
 !labs/PapaQflux.png
 !labs/Lab3.ipynb
+!labs/Lab4.ipynb 
+!labs/Lab1Sol.ipynb
+!labs/Lab2Sol.ipynb
 data/*
 
 lectures/*.lyx
