@@ -20,6 +20,7 @@ labs/*.nc
 !labs/Lab1Sol.ipynb
 !labs/Lab2Sol.ipynb
 !labs/LabSubmissionGuideLines.md
+!labs/LabSubmissionGuideLines.pdf
 data/*
 
 lectures/*.lyx
