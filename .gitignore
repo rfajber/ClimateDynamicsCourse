@@ -19,10 +19,14 @@ labs/*.nc
 !labs/Lab4.ipynb 
 !labs/Lab1Sol.ipynb
 !labs/Lab2Sol.ipynb
+!labs/Lab3Sol.ipynb
+!labs/Lab4Sol.ipynb
+!labs/Lab5Sol.ipynb
 !labs/LabSubmissionGuideLines.md
 !labs/LabSubmissionGuideLines.pdf
 data/*
 !labs/Lab5.ipynb
+!labs/Lab6.ipynb
 
 lectures/*.lyx
 lectures/*.lyx*
